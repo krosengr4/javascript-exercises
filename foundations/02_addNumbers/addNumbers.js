@@ -1,12 +1,12 @@
 function addNumbers() {
-  const a = 1;
-  const b = 1;
+    const a = 1;
+    const b = 1;
 
-  let result;
+    let result;
 
-  result = "a" + "b"; // <------ EDIT THIS LINE
+    result = 1 + 1; // <------ EDIT THIS LINE
 
-  return result;
+    return result;
 }
 
 // Do not change this
